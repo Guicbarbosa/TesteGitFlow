@@ -1,2 +1,1 @@
-﻿# TesteGitFlow
-" Teste de funcionamento"
+﻿Arquivo para teste das funcionalidades
