@@ -4,8 +4,17 @@ Teste de funcionameto do commit
 Teste do pull request 
 
 
+
 Funciona ?
 
 Sim 
 
 142536
+=======
+Funciona ?
+
+Não
+
+
+142536
+
